@@ -2,6 +2,7 @@ services:
   - type: web
     name: churn-prediction-backend
     runtime: python3
+    rootDir: backend
     buildCommand: pip install -r requirements.txt
     startCommand: python app.py
     envVars:
