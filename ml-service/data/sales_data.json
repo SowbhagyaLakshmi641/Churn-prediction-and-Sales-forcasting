@@ -1,0 +1,523 @@
+{
+  "salesByCategory": [
+    {
+      "category": "Clothing",
+      "revenue": 439803.15,
+      "percentage": 21.44
+    },
+    {
+      "category": "Electronics",
+      "revenue": 411628.81,
+      "percentage": 20.06
+    },
+    {
+      "category": "Beauty",
+      "revenue": 405850.74,
+      "percentage": 19.78
+    },
+    {
+      "category": "Sports",
+      "revenue": 402321.21,
+      "percentage": 19.61
+    },
+    {
+      "category": "Home",
+      "revenue": 392086.74,
+      "percentage": 19.11
+    }
+  ],
+  "revenueTrends": [
+    {
+      "month": "2020-07",
+      "revenue": 1884.12,
+      "isPredicted": false
+    },
+    {
+      "month": "2020-09",
+      "revenue": 1680.98,
+      "isPredicted": false
+    },
+    {
+      "month": "2020-10",
+      "revenue": 852.04,
+      "isPredicted": false
+    },
+    {
+      "month": "2020-12",
+      "revenue": 1361.28,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-01",
+      "revenue": 6545.18,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-02",
+      "revenue": 7883.57,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-03",
+      "revenue": 8404.88,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-04",
+      "revenue": 12455.0,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-05",
+      "revenue": 4449.74,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-06",
+      "revenue": 8647.85,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-07",
+      "revenue": 18091.63,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-08",
+      "revenue": 12955.98,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-09",
+      "revenue": 8891.72,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-10",
+      "revenue": 15008.85,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-11",
+      "revenue": 16088.48,
+      "isPredicted": false
+    },
+    {
+      "month": "2021-12",
+      "revenue": 17624.46,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-01",
+      "revenue": 24609.02,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-02",
+      "revenue": 29692.17,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-03",
+      "revenue": 19481.45,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-04",
+      "revenue": 23783.690000000002,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-05",
+      "revenue": 26033.510000000002,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-06",
+      "revenue": 10026.22,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-07",
+      "revenue": 26482.41,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-08",
+      "revenue": 34378.09,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-09",
+      "revenue": 25176.55,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-10",
+      "revenue": 24396.27,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-11",
+      "revenue": 22929.96,
+      "isPredicted": false
+    },
+    {
+      "month": "2022-12",
+      "revenue": 31142.559999999998,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-01",
+      "revenue": 32226.72,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-02",
+      "revenue": 38957.74,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-03",
+      "revenue": 42779.07,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-04",
+      "revenue": 44209.57,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-05",
+      "revenue": 49065.48,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-06",
+      "revenue": 37795.09,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-07",
+      "revenue": 46419.73,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-08",
+      "revenue": 41555.22,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-09",
+      "revenue": 48311.28,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-10",
+      "revenue": 42800.36,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-11",
+      "revenue": 66937.19,
+      "isPredicted": false
+    },
+    {
+      "month": "2023-12",
+      "revenue": 43123.44,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-01",
+      "revenue": 58065.61,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-02",
+      "revenue": 51932.86,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-03",
+      "revenue": 50997.13,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-04",
+      "revenue": 53384.01,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-05",
+      "revenue": 57561.7,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-06",
+      "revenue": 49137.67,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-07",
+      "revenue": 55781.54,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-08",
+      "revenue": 51823.09,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-09",
+      "revenue": 57488.52,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-10",
+      "revenue": 51297.91,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-11",
+      "revenue": 50957.53,
+      "isPredicted": false
+    },
+    {
+      "month": "2024-12",
+      "revenue": 64697.340000000004,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-01",
+      "revenue": 50342.159999999996,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-02",
+      "revenue": 44755.46,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-03",
+      "revenue": 43259.52,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-04",
+      "revenue": 45637.73,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-05",
+      "revenue": 49251.89,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-06",
+      "revenue": 39969.87,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-07",
+      "revenue": 61060.38,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-08",
+      "revenue": 32929.72,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-09",
+      "revenue": 20276.55,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-10",
+      "revenue": 14120.470000000001,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-11",
+      "revenue": 9580.18,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-12",
+      "revenue": 12243.26,
+      "isPredicted": false
+    },
+    {
+      "month": "2025-12",
+      "revenue": 65143.960104223355,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-01",
+      "revenue": 66439.59965303286,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-02",
+      "revenue": 48170.56923244326,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-03",
+      "revenue": 60153.546545921265,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-04",
+      "revenue": 69591.41225358871,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-05",
+      "revenue": 49281.872294120076,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-06",
+      "revenue": 69818.54462752513,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-07",
+      "revenue": 58554.12745781084,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-08",
+      "revenue": 55509.342033838446,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-09",
+      "revenue": 46513.526936230286,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-10",
+      "revenue": 75122.74195127771,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-11",
+      "revenue": 40095.81790819831,
+      "isPredicted": false
+    },
+    {
+      "month": "2026-12",
+      "revenue": 75098.12473296573,
+      "isPredicted": false
+    }
+  ],
+  "ageDistribution": [
+    {
+      "age_group": "18-25",
+      "count": 287,
+      "percentage": 14.35
+    },
+    {
+      "age_group": "26-35",
+      "count": 354,
+      "percentage": 17.7
+    },
+    {
+      "age_group": "36-45",
+      "count": 375,
+      "percentage": 18.75
+    },
+    {
+      "age_group": "46-60",
+      "count": 633,
+      "percentage": 31.65
+    },
+    {
+      "age_group": "60+",
+      "count": 351,
+      "percentage": 17.55
+    }
+  ],
+  "customerSegments": [
+    {
+      "segment": "Low Value",
+      "count": 1000,
+      "percentage": 50.0
+    },
+    {
+      "segment": "Medium Value",
+      "count": 743,
+      "percentage": 37.15
+    },
+    {
+      "segment": "High Value",
+      "count": 257,
+      "percentage": 12.85
+    }
+  ],
+  "topProducts": [
+    {
+      "product_id": "PROD523",
+      "product_name": "Dumbbells",
+      "country": "Pakistan",
+      "revenue": 1998.08
+    },
+    {
+      "product_id": "PROD2134",
+      "product_name": "Lamp",
+      "country": "Germany",
+      "revenue": 1994.6999999999998
+    },
+    {
+      "product_id": "PROD1431",
+      "product_name": "Face Wash",
+      "country": "Pakistan",
+      "revenue": 1994.58
+    },
+    {
+      "product_id": "PROD703",
+      "product_name": "Camera",
+      "country": "USA",
+      "revenue": 1993.12
+    },
+    {
+      "product_id": "PROD534",
+      "product_name": "Blender",
+      "country": "UK",
+      "revenue": 1993.1100000000001
+    },
+    {
+      "product_id": "PROD1473",
+      "product_name": "Dress",
+      "country": "Pakistan",
+      "revenue": 1991.63
+    },
+    {
+      "product_id": "PROD1352",
+      "product_name": "Running Shoes",
+      "country": "Pakistan",
+      "revenue": 1991.34
+    },
+    {
+      "product_id": "PROD422",
+      "product_name": "Perfume",
+      "country": "Canada",
+      "revenue": 1990.9
+    },
+    {
+      "product_id": "PROD563",
+      "product_name": "Vacuum Cleaner",
+      "country": "UK",
+      "revenue": 1988.67
+    },
+    {
+      "product_id": "PROD1468",
+      "product_name": "Conditioner",
+      "country": "USA",
+      "revenue": 1988.48
+    }
+  ],
+  "forecasts": []
+}
