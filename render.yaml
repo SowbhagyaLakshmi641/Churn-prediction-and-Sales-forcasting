@@ -1,18 +1,18 @@
 services:
   - type: web
     name: churn-prediction-backend
-    runtime: python3
+    runtime: python
     rootDir: backend
     buildCommand: pip install -r requirements.txt
     startCommand: python app.py
     envVars:
       - key: JWT_SECRET_KEY
-        value: your-secret-key-here
+        value: bf3a53c48c82814907d354c9494dd82af01b640e6bb080fdba8be73e3a7aee2f
       - key: PORT
         value: 10000
   - type: web
     name: ml-service
-    runtime: python3
+    runtime: python
     rootDir: ml-service
     buildCommand: pip install -r requirements.txt
     startCommand: python app.py
