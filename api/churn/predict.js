@@ -8,7 +8,7 @@ export default async function handler(req, res) {
   const data = req.body;
 
   // Run Python script for prediction
-  const pythonProcess = spawn('python3', ['ml-service/churn_model.py'], {
+  const pythonProcess = spawn('python3', ['api/ml/churn_model.py'], {
     cwd: process.cwd(),
     stdio: ['pipe', 'pipe', 'pipe']
   });

@@ -6,7 +6,7 @@ export default async function handler(req, res) {
   }
 
   // Run Python script for sales forecast
-  const pythonProcess = spawn('python3', ['ml-service/generate_sales_data.py'], {
+  const pythonProcess = spawn('python3', ['api/ml/generate_sales_data.py'], {
     cwd: process.cwd(),
     stdio: ['pipe', 'pipe', 'pipe']
   });
