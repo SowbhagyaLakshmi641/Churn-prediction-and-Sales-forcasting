@@ -19,8 +19,3 @@ services:
     envVars:
       - key: PORT
         value: 10001
-  - type: static_site
-    name: churn-prediction-frontend
-    rootDir: frontend
-    buildCommand: npm install && npm run build
-    publishDir: build
